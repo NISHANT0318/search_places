@@ -23,7 +23,7 @@ To run this project locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/NISHANT0318/search_places
    cd your-repo-name
 
    ```
